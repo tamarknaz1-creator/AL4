@@ -1,6 +1,5 @@
 package il.ac.tau.cs.software1.pacman;
 
-import il.ac.tau.cs.software1.core.*;
 
 
 public abstract class PacmanBonus extends PacmanGameObject {

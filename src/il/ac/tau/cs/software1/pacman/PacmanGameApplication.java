@@ -5,7 +5,6 @@ import java.util.*;
 import il.ac.tau.cs.software1.core.*;
 import il.ac.tau.cs.software1.framework.*;
 import il.ac.tau.cs.software1.math.*;
-import il.ac.tau.cs.software1.pacman.*;
 
 
 public class PacmanGameApplication implements IGameLogic {
